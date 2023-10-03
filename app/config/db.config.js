@@ -4,8 +4,8 @@ module.exports = {
   // PASSWORD: "",
   // DB: "myapi"
 
-  HOST: "bgo32tsdrouz14u3nmpu-mysql.services.clever-cloud.com",
-  USER: "uj4mia19ffj5dhao",
-  PASSWORD: "kvInHUeQxYIDUhhZoT0z",
-  DB: "bgo32tsdrouz14u3nmpu",
+  HOST: "bg2pvskv3ocr9hi8vjqi-mysql.services.clever-cloud.com",
+  USER: "u07unlf9pgx2riy1",
+  PASSWORD: "qPH8apAhOqH7SE2wikCF",
+  DB: "bg2pvskv3ocr9hi8vjqi"
 };
